@@ -539,27 +539,27 @@ section {
   bottom: 0;
 }
 
-.frontend:after {
-  width: 90%;
+.computervision:after {
+  width: 96%;
 }
 
-.backend:after {
+.automation:after {
+  width: 94%;
+}
+
+.deeplearning:after {
+  width: 82%;
+}
+
+.iot:after {
   width: 80%;
 }
 
-.database:after {
-  width: 85%;
+.mlops:after {
+  width: 78%;
 }
 
-.design:after {
-  width: 80%;
-}
-
-.marketing:after {
-  width: 70%;
-}
-
-.cybersecurity:after {
+.agenticai:after {
   width: 75%;
 }
 
